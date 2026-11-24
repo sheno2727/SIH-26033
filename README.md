@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:24.11.2026
+## Reference Number:26004112
+## Name:Sheno.P
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,28 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+Our project is a website that connects farmers directly with customers. Farmers can add their products and sell them online. Customers can easily buy fresh products at a good price. This helps farmers earn more money
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+We will create a website using HTML, CSS and JavaScript. We will use Python for the backend and a database to store details.
+
+AI will help to find product demand and choose better delivery routes.
+![alt text](SIH.jpg)
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+This project is easy to develop using simple technologies. Farmers can use it through mobile phones or computers.
+
+Some farmers may not know how to use online platforms. Internet problems and delivery problems may also happen.
+
+We can solve these problems by making the website simple and easy to use.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
-
+- Farmers can get better prices for their products.
+- Customers can buy fresh products at lower prices.
+- Farmers can sell products directly to customers.
+- Food waste can be reduced.
+- It helps farmers and village development
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+
+1. e-NAM – https://enam.gov.in/
+2. Ministry of Consumer Affairs – https://consumeraffairs.nic.in/
